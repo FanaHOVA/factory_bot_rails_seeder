@@ -42,7 +42,7 @@ FactoryBotRailsSeeder.generate_for_all_but([User, Startup])
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/factory_bot_rails_seeder.
+Bug reports and pull requests are welcome on GitHub at https://github.com/fanahova/factory_bot_rails_seeder.
 
 ## License
 
